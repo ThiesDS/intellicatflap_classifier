@@ -6,3 +6,6 @@
 .DS_Store
 __pycache__
 .ipynb_checkpoints
+
+# Config files
+gcs_serviceaccount.json

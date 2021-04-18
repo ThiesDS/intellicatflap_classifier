@@ -20,4 +20,4 @@ docker run -d -p 8501:8501 \
   -t tensorflow/serving
 
 # Run classification (path must end with /; destination: 'local' or 'gcs')
-python src/main.py --gcs_path='2021/04/09/05/37/' --destination='local'
+python src/main.py --gcs_path='2021/04/18/' --destination='local'
