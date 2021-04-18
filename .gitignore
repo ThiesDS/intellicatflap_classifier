@@ -1,6 +1,10 @@
 # Ignore all data and models
 *.jpg
-/models/final/*
+
+# Models
+*.pb
+assets
+variables
 
 # Cache and other stuff
 .DS_Store
